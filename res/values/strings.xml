@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavedAhmadApp</string>
+    <string name="hello_world">Hai Myname Is Jhaved Ahmad Firdaus</string>
+    <string name="action_settings">Settings</string> 
+
+</resources>
